@@ -1,5 +1,5 @@
 ## Идея компании
-Slush 
+Мороженое Slush 
 
 ## Состав группы
 Пашкеева Елизавета (github: epashkeeva-ui), Купча Софья (github: Kupchaso), Тосунян Даниэль (github: benariq)
