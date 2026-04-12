@@ -16,6 +16,6 @@ Real Estate Flipping Analysis
 
 
 ## Команда
-* [Имя участника 1] — ветка `feature/member1`
-* [Имя участника 2] — ветка `feature/member2`
-* [Имя участника 3] — ветка `feature/member3`
+* Купча Софья - 
+* Пашкеева Лиза - 
+* Тосунян Даниэль - 
