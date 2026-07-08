@@ -1,0 +1,12 @@
+/.venv
+/downloaded_files
+/my_perekrestok_profile
+/names.txt
+/perek_new.ipynb
+/templates
+/top15perek.csv
+/top15vv.csv
+/vv_parsing.ipynb
+/__pycache__
+/малина_личи_в_нише.csv
+perekrestok.html
